@@ -1,7 +1,7 @@
 @"><script>alert(1)</script>
 Feature: <script>alert(1)</script>
 
-  @ORPHAN
+  @ORPHAN @MANUAL
   Scenario: hello
 
   @ORPHAN
